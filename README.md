@@ -58,7 +58,7 @@ Este guia foca na configuração do código que roda no **ESP32** (arquivo `src/
 ### Passos de Execução
 1.  **Clonar o Repositório:**
     ```bash
-    git clone [https://github.com/FIAP-Global-Solution-2k25/Edge-Computing-And-Computer-Systems.git](https://github.com/FIAP-Global-Solution-2k25/Edge-Computing-And-Computer-Systems.git)
+    git clone https://github.com/FIAP-Global-Solution-2k25/Edge-Computing-And-Computer-Systems.git
     ```
 2.  **Abrir o Código:** Abra o arquivo `src/main.ino` na Arduino IDE.
 3.  **Credenciais de Conexão:** Altere as seguintes variáveis globais no código para as suas credenciais:
